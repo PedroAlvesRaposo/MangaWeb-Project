@@ -35,6 +35,8 @@ O projeto prioriza inicialmente a experiência do usuário, deixando a monetiza�
 | Perfil do Usuário | Medium |
 | Planos de Acesso e Monetização | Low |
 
+<img width="909" height="233" alt="image" src="https://github.com/user-attachments/assets/774f6553-adbd-412b-93c9-12081e77c6e5" />
+
 ---
 
 ## 📄 Backlogs
@@ -44,6 +46,8 @@ As histórias de usuário estão organizadas no Jira e refletem funcionalidades 
 > Como usuário desejo X para Y
 
 Cada backlog possui critérios de aceite e requisitos funcionais.
+
+<img width="1044" height="630" alt="image" src="https://github.com/user-attachments/assets/d7a5412c-1dc8-4d3b-8acc-a457d9c5efbe" />
 
 ---
 
@@ -97,6 +101,12 @@ Este repositório faz parte de um portfólio pessoal com foco em:
 - Estruturação de software antes do desenvolvimento
 
 ---
+
+## 🔗 Ferramentas do Projeto
+
+- Jira:
+https://seu-link-aqui
+
 
 ## 👤 Autor
 

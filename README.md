@@ -110,4 +110,4 @@ Devido às limitações do plano gratuito, o acesso está disponível mediante s
 
 ## 👤 Autor
 
-Pedro Alves
+Pedro Alves Raposo

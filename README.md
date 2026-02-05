@@ -104,8 +104,8 @@ Este repositório faz parte de um portfólio pessoal com foco em:
 
 ## 🔗 Ferramentas do Projeto
 
-- Jira:
-https://seu-link-aqui
+O planejamento do projeto foi realizado no Jira.
+Devido às limitações do plano gratuito, o acesso está disponível mediante solicitação.
 
 
 ## 👤 Autor
